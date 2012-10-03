@@ -1,0 +1,23 @@
+{
+	"author": "Jussi Kalliokoski <jussi.kalliokoski@gmail.com> (http://avd.io)",
+	"name": "watch-and-run",
+	"description": "A simple tool to watch for file changes and run commands after.",
+	"version": "0.0.0",
+	"homepage": "https://github.com/jussi-kalliokoski/watch-and-run",
+
+	"repository": {
+		"url": "git://github.com/jussi-kalliokoski/watch-and-run.git"
+	},
+
+	"dependencies": {},
+	"devDependencies": {},
+	"optionalDependencies": {},
+
+	"engines": {
+		"node": "*"
+	},
+
+	"bin": {
+		"watch-and-run": "bin/watch-and-run.js"
+	}
+}

@@ -9,7 +9,9 @@
 		"url": "git://github.com/jussi-kalliokoski/watch-and-run.git"
 	},
 
-	"dependencies": {},
+	"dependencies": {
+		"paramon": "*"
+	},
 	"devDependencies": {},
 	"optionalDependencies": {},
 
